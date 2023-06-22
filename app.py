@@ -6,7 +6,7 @@ JOBS = [
   {
     'id': 1,
     'title': 'Data Analyst',
-    'location': 'Nepal, Nepal',
+    'location': 'kawasaki, Japan',
     'Salary': '1000000円'
   },
   {
